@@ -162,3 +162,12 @@ Aqui estão **7 slots** organizados em grade para você trocar pelos seus arquiv
 | Relatórios | Perfil | Splash / Abertura |
 | --- | --- | --- |
 | ![Relatórios](assets/images/relatorios.jpg) | ![Perfil](assets/images/perfil.jpg) | ![Perfil](assets/images/perfil-1.jpg) |
+
+### 📄 Exemplo de relatório em PDF (dados)
+
+Use esta área para mostrar como fica o **PDF gerado pelo app** com os dados de atividades e usuário.
+Basta substituir o caminho abaixo pela imagem que você capturou do PDF (por exemplo, um print do relatório aberto no celular ou computador):
+
+```markdown
+![Relatório em PDF](assets/images/relatorio.png)
+```
